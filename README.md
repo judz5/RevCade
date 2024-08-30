@@ -7,6 +7,8 @@
 RevCade is a multigame arcade created with PyGame. Each game features the mascot of Texas A&M, Reveille.
 This project features 3 games, RevRun, FlappyRev, and RevCatch. Each featuring its own 8bit version of a fighting Texas Aggie song.
 
+
+
 ## Menu
 <img src="assets/menuSS.png" width="275" height="400">
 
@@ -14,6 +16,6 @@ This project features 3 games, RevRun, FlappyRev, and RevCatch. Each featuring i
 <img src="assets/RevRunSS.png" width="500">
 
 ## FlappyRev
-<img src="assets/FlappyRevSS.png" width="275" height="400">
+![](https://github.com/judz5/RevCade/blob/main/FlappyRevClip.gif)
 
 
